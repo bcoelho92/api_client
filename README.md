@@ -9,6 +9,6 @@ Realizando test e aprendendo sobre django
 # Rodar aplicação
 - python manage.py runserver
 
-
+Bora lá!
 
 Referência: https://www.youtube.com/watch?v=-vrXnewHrwA&list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N
