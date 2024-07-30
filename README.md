@@ -11,4 +11,8 @@ Realizando test e aprendendo sobre django
 
 Bora lá!
 
-Referência: https://www.youtube.com/watch?v=-vrXnewHrwA&list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N
+# Referência: 
+
+* https://www.w3schools.com/python/python_sets.asp
+
+* https://www.youtube.com/watch?v=-vrXnewHrwA&list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N
